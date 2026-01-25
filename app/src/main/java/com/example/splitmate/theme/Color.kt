@@ -1,4 +1,4 @@
-package com.example.quiztrainer.ui.theme
+package com.example.splitmate.theme
 
 import androidx.compose.ui.graphics.Color
 

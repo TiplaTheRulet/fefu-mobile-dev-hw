@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Quiz"
+rootProject.name = "SplitMate"
 include(":app")
+ 

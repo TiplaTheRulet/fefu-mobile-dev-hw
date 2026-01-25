@@ -1,16 +1,18 @@
-\# ДЗ 1
+\# ДЗ 2
 
 Иванов Альберт Валерьевич
 
 Б9123-09.03.03пикд(3)
 
-Квиз по лору вселенной TES
+SplitMate
 
 
 
 !\[](images/welcome.jpg)
 
-!\[](images/question.jpg)
+!\[](images/input.jpg)
 
 !\[](images/result.jpg)
+
+
 

@@ -4,11 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.quiztrainer"
-    compileSdk = 36
+    namespace = "com.example.splitmate"
+    compileSdk {
+        version = release(36)
+    }
 
     defaultConfig {
-        applicationId = "com.example.quiztrainer"
+        applicationId = "com.example.splitmate"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -44,6 +46,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.material)
+    implementation(libs.androidx.navigation)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

@@ -1,4 +1,4 @@
-package com.example.quiztrainer
+package com.example.splitmate
 
 import org.junit.Test
 
