@@ -1,4 +1,4 @@
-\# ДЗ 1
+# ДЗ 1
 
 Иванов Альберт Валерьевич
 
@@ -8,9 +8,9 @@
 
 
 
-!\[](images/welcome.jpg)
+![](images/welcome.jpg)
 
-!\[](images/question.jpg)
+![](images/question.jpg)
 
-!\[](images/result.jpg)
+![](images/result.jpg)
 
