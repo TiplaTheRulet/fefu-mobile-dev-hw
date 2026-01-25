@@ -1,4 +1,4 @@
-\# ДЗ 3
+# ДЗ 3
 
 Иванов Альберт Валерьевич
 
@@ -18,13 +18,13 @@ PokeAPI - энциклопедия покемонов
 
 
 
-!\[](images/list.jpg)
+![](images/list.jpg)
 
-!\[](images/search.jpg)
+![](images/search.jpg)
 
-!\[](images/detail.jpg)
+![](images/detail.jpg)
 
-!\[](images/loading.jpg)
+![](images/loading.jpg)
 
-!\[](images/error.jpg)
+![](images/error.jpg)
 
