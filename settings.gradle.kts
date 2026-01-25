@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SplitMate"
+rootProject.name = "PokeDex"
 include(":app")
  

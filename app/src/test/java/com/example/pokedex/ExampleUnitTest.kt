@@ -1,4 +1,4 @@
-package com.example.splitmate
+package com.example.pokedex
 
 import org.junit.Test
 
