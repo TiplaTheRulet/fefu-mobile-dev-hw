@@ -1,4 +1,4 @@
-\# ДЗ 2
+# ДЗ 2
 
 Иванов Альберт Валерьевич
 
@@ -8,11 +8,11 @@ SplitMate
 
 
 
-!\[](images/welcome.jpg)
+![](images/welcome.jpg)
 
-!\[](images/input.jpg)
+![](images/input.jpg)
 
-!\[](images/result.jpg)
+![](images/result.jpg)
 
 
 
