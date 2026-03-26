@@ -38,11 +38,11 @@ Endpoints: /films для списка, /films/{id} для деталей отд�
 
 
 
-!\[](images/list.jpg)
+![](images/list.jpg)
 
 
 
-!\[](images/detail.jpg)
+![](images/detail.jpg)
 
 
 
