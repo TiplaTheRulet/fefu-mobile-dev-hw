@@ -13,6 +13,7 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 
+@HiltViewModel
 class FilmDetailViewModel @Inject constructor(
     private val repository: FilmRepository,
     savedStateHandle: SavedStateHandle

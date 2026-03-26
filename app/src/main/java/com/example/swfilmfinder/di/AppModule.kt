@@ -1,8 +1,8 @@
 package com.example.swfilmfinder.di
 
 import com.example.swfilmfinder.data.remote.SwapiService
+import com.example.swfilmfinder.data.repository.FilmRepositoryImpl
 import com.example.swfilmfinder.domain.repository.FilmRepository
-import com.example.swfilmfinder.domain.repository.FilmRepositoryImpl
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

@@ -33,7 +33,7 @@ fun FilmDto.toDetailDomain(): FilmDetail {
         planetsCount = this.planets?.size ?: 0,
         starshipsCount = this.starships?.size ?: 0,
         vehiclesCount = this.vehicles?.size ?: 0,
-        speciesCount = this.characters?.size ?: 0,
+        speciesCount = this.species?.size ?: 0,
         yearsSinceRelease = age
     )
 }
